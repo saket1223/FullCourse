@@ -1,1 +1,11 @@
-
+*{
+    left:0px;
+    top:0px;
+}
+body{
+    background-color: lightblue;
+}
+.container{
+    width:500px;
+    height:400px;
+}
