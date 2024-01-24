@@ -1,2 +1,0 @@
-# FullCourse
-Full Course Repository
